@@ -1,0 +1,16 @@
+{
+  "name": "matrix_vcon_emitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "matrix-js-sdk": "^27.0.0",
+    "moment": "^2.29.4",
+    "node-fetch": "^3.3.1"
+  }
+}

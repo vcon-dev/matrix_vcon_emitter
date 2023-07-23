@@ -1,0 +1,368 @@
+{
+  "uuid": "8c6f0fa2-ea5d-584b-a349-1efb5bd46759",
+  "vcon": "0.0.1",
+  "dialog": [
+    {
+      "body": "adfasdfasd",
+      "meta": {
+        "matrix_event": {
+          "type": "m.room.message",
+          "sender": "@howethomas:localhost",
+          "content": {
+            "msgtype": "m.text",
+            "body": "adfasdfasd"
+          },
+          "origin_server_ts": 1690136303405,
+          "unsigned": {
+            "age": 20,
+            "transaction_id": "m1690136303381.16"
+          },
+          "event_id": "$0rzsU3zsHUfL0PjaRIMIymtnckdGZbAFopZb79_ygoM",
+          "room_id": "!ATxGWiImXkpZOfZoev:localhost"
+        }
+      },
+      "type": "text",
+      "start": "2023-07-23T18:18:23.405Z",
+      "parties": [
+        0
+      ],
+      "originator": [
+        0
+      ],
+      "encoding": "text/plain"
+    },
+    {
+      "body": "asadsdfasfd",
+      "meta": {
+        "matrix_event": {
+          "type": "m.room.message",
+          "sender": "@howethomas:localhost",
+          "content": {
+            "msgtype": "m.text",
+            "body": "asadsdfasfd"
+          },
+          "origin_server_ts": 1690129827723,
+          "unsigned": {
+            "age": 6492665,
+            "transaction_id": "m1690129827698.6"
+          },
+          "event_id": "$frwl8hBUWUv1Rokh0ZZemIdo6OYqDyl0rrzHXfNzDEo",
+          "room_id": "!ATxGWiImXkpZOfZoev:localhost"
+        }
+      },
+      "type": "text",
+      "start": "2023-07-23T16:30:27.723Z",
+      "parties": [
+        0
+      ],
+      "originator": [
+        0
+      ],
+      "encoding": "text/plain"
+    },
+    {
+      "body": "ADADFADSFASFASDFAS",
+      "meta": {
+        "matrix_event": {
+          "type": "m.room.message",
+          "sender": "@howethomas:localhost",
+          "content": {
+            "msgtype": "m.text",
+            "body": "ADADFADSFASFASDFAS"
+          },
+          "origin_server_ts": 1690130162278,
+          "unsigned": {
+            "age": 6158110,
+            "transaction_id": "m1690130162249.7"
+          },
+          "event_id": "$uHPJeI53sAIyxOPEB_2Tko9Yj0XuYJrvaHUe6dQrfZA",
+          "room_id": "!ATxGWiImXkpZOfZoev:localhost"
+        }
+      },
+      "type": "text",
+      "start": "2023-07-23T16:36:02.278Z",
+      "parties": [
+        0
+      ],
+      "originator": [
+        0
+      ],
+      "encoding": "text/plain"
+    },
+    {
+      "body": "Once again",
+      "meta": {
+        "matrix_event": {
+          "type": "m.room.message",
+          "sender": "@howethomas:localhost",
+          "content": {
+            "msgtype": "m.text",
+            "body": "Once again"
+          },
+          "origin_server_ts": 1690130217094,
+          "unsigned": {
+            "age": 6103294,
+            "transaction_id": "m1690130217063.8"
+          },
+          "event_id": "$5NU-TjwIY28lR_txsfTzXCN5SPF8i2Bd6l4qozwMOcg",
+          "room_id": "!ATxGWiImXkpZOfZoev:localhost"
+        }
+      },
+      "type": "text",
+      "start": "2023-07-23T16:36:57.094Z",
+      "parties": [
+        0
+      ],
+      "originator": [
+        0
+      ],
+      "encoding": "text/plain"
+    },
+    {
+      "body": "Aadf;ajdfas",
+      "meta": {
+        "matrix_event": {
+          "type": "m.room.message",
+          "sender": "@howethomas:localhost",
+          "content": {
+            "msgtype": "m.text",
+            "body": "Aadf;ajdfas"
+          },
+          "origin_server_ts": 1690132252521,
+          "unsigned": {
+            "age": 4067867,
+            "transaction_id": "m1690132252484.9"
+          },
+          "event_id": "$2vgrtBthEMfEH5-EzC3DyYcvUzsD4J-TRVJa4-zNhoQ",
+          "room_id": "!ATxGWiImXkpZOfZoev:localhost"
+        }
+      },
+      "type": "text",
+      "start": "2023-07-23T17:10:52.521Z",
+      "parties": [
+        0
+      ],
+      "originator": [
+        0
+      ],
+      "encoding": "text/plain"
+    },
+    {
+      "body": "this is an example",
+      "meta": {
+        "matrix_event": {
+          "type": "m.room.message",
+          "sender": "@howethomas:localhost",
+          "content": {
+            "msgtype": "m.text",
+            "body": "this is an example"
+          },
+          "origin_server_ts": 1690132911826,
+          "unsigned": {
+            "age": 3408562,
+            "transaction_id": "m1690132911805.10"
+          },
+          "event_id": "$o1AwrFxxR18FJ6vabK_lu0PZn_XHkR-jQLYvRGniLJE",
+          "room_id": "!ATxGWiImXkpZOfZoev:localhost"
+        }
+      },
+      "type": "text",
+      "start": "2023-07-23T17:21:51.826Z",
+      "parties": [
+        0
+      ],
+      "originator": [
+        0
+      ],
+      "encoding": "text/plain"
+    },
+    {
+      "body": "I want to say hello to Matthew",
+      "meta": {
+        "matrix_event": {
+          "type": "m.room.message",
+          "sender": "@howethomas:localhost",
+          "content": {
+            "msgtype": "m.text",
+            "body": "I want to say hello to Matthew"
+          },
+          "origin_server_ts": 1690133741347,
+          "unsigned": {
+            "age": 2579041,
+            "transaction_id": "m1690133741311.11"
+          },
+          "event_id": "$Sv_bTmcx2EM5WKpVGE0XKLa6PKtDU8XAZo7yvi7nEpk",
+          "room_id": "!ATxGWiImXkpZOfZoev:localhost"
+        }
+      },
+      "type": "text",
+      "start": "2023-07-23T17:35:41.347Z",
+      "parties": [
+        0
+      ],
+      "originator": [
+        0
+      ],
+      "encoding": "text/plain"
+    },
+    {
+      "body": "Hello@!",
+      "meta": {
+        "matrix_event": {
+          "type": "m.room.message",
+          "sender": "@howethomas:localhost",
+          "content": {
+            "msgtype": "m.text",
+            "body": "Hello@!"
+          },
+          "origin_server_ts": 1690133797056,
+          "unsigned": {
+            "age": 2523332,
+            "transaction_id": "m1690133797035.12"
+          },
+          "event_id": "$BdJGRN39YHm4dAxWXRMom_NFHh1eneAKhFUfbStcYCM",
+          "room_id": "!ATxGWiImXkpZOfZoev:localhost"
+        }
+      },
+      "type": "text",
+      "start": "2023-07-23T17:36:37.056Z",
+      "parties": [
+        0
+      ],
+      "originator": [
+        0
+      ],
+      "encoding": "text/plain"
+    },
+    {
+      "body": "I am a test message.",
+      "meta": {
+        "matrix_event": {
+          "type": "m.room.message",
+          "sender": "@howethomas:localhost",
+          "content": {
+            "msgtype": "m.text",
+            "body": "I am a test message."
+          },
+          "origin_server_ts": 1690134047134,
+          "unsigned": {
+            "age": 2273254,
+            "transaction_id": "m1690134047111.13"
+          },
+          "event_id": "$EtuCx2RhsYzwFo4ahJsYSNxhfaNvhNSMwYuqQLRhLGc",
+          "room_id": "!ATxGWiImXkpZOfZoev:localhost"
+        }
+      },
+      "type": "text",
+      "start": "2023-07-23T17:40:47.134Z",
+      "parties": [
+        0
+      ],
+      "originator": [
+        0
+      ],
+      "encoding": "text/plain"
+    },
+    {
+      "body": "Hello, Matthew",
+      "meta": {
+        "matrix_event": {
+          "type": "m.room.message",
+          "sender": "@howethomas:localhost",
+          "content": {
+            "msgtype": "m.text",
+            "body": "Hello, Matthew"
+          },
+          "origin_server_ts": 1690134103424,
+          "unsigned": {
+            "age": 2216964,
+            "transaction_id": "m1690134103390.14"
+          },
+          "event_id": "$PC3UCx1ZfPIoxD7fyxAo2nYTQlkXoyBgfDS9_DOgyTk",
+          "room_id": "!ATxGWiImXkpZOfZoev:localhost"
+        }
+      },
+      "type": "text",
+      "start": "2023-07-23T17:41:43.424Z",
+      "parties": [
+        0
+      ],
+      "originator": [
+        0
+      ],
+      "encoding": "text/plain"
+    },
+    {
+      "body": "Hello, Ringo",
+      "meta": {
+        "matrix_event": {
+          "type": "m.room.message",
+          "sender": "@howethomas:localhost",
+          "content": {
+            "msgtype": "m.text",
+            "body": "Hello, Ringo"
+          },
+          "origin_server_ts": 1690135625789,
+          "unsigned": {
+            "age": 694599,
+            "transaction_id": "m1690135625764.15"
+          },
+          "event_id": "$Ga-8LtByDqUaX4qGGFXTbO2v3yvWEjvaXMuKMswMFnQ",
+          "room_id": "!ATxGWiImXkpZOfZoev:localhost"
+        }
+      },
+      "type": "text",
+      "start": "2023-07-23T18:07:05.789Z",
+      "parties": [
+        0
+      ],
+      "originator": [
+        0
+      ],
+      "encoding": "text/plain"
+    },
+    {
+      "body": "George",
+      "meta": {
+        "matrix_event": {
+          "type": "m.room.message",
+          "sender": "@howethomas:localhost",
+          "content": {
+            "msgtype": "m.text",
+            "body": "George"
+          },
+          "origin_server_ts": 1690136337336,
+          "unsigned": {
+            "age": 23,
+            "transaction_id": "m1690136337312.17"
+          },
+          "event_id": "$Ywb1_SNEifaEuGpaYODQXmGcy_QxJ5YjLxWEK85HKnU",
+          "room_id": "!ATxGWiImXkpZOfZoev:localhost"
+        }
+      },
+      "type": "text",
+      "start": "2023-07-23T18:18:57.336Z",
+      "parties": [
+        0
+      ],
+      "originator": [
+        0
+      ],
+      "encoding": "text/plain"
+    }
+  ],
+  "parties": [
+    {
+      "tel": "howethomas",
+      "meta": {
+        "role": "agent"
+      },
+      "name": "howethomas",
+      "mailto": "howethomas@localhost"
+    }
+  ],
+  "subject": "Recording of Hello World",
+  "analysis": [],
+  "created_at": "2023-07-23T18:18:23.431Z",
+  "attachments": []
+}
